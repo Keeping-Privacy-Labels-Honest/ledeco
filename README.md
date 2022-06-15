@@ -11,4 +11,4 @@ sbt 1.6.2
 prettyPictureMaker 0.4.6
 ```
 
-You can download the ppm [here](https://github.com/simkoc/prettyPictureMaker) checkout the version tag and use `sbt publishLocal
+You can download the ppm [here](https://github.com/simkoc/prettyPictureMaker) checkout the version tag and use `sbt publishLocal` to make ppm localy available for building ledeco.
