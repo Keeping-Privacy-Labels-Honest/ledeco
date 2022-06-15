@@ -55,3 +55,14 @@ $> ./run.sh large-scale-privacy-label [folder] [where] [what] {-d,-h,-e,-f}
 ```
 
 This action analyzes the set of privacy labels contained in subfolders contained below `folder`. `where` names the folder to output the results into whereas `what` describes the action that is to be done. For `what` you can choose between `analysis,bar-plotting,keyness-plotting` each conducting the named action. The `-d` parameter can be used to provide a csv list of categories (subfolder names) that are not to be evaluated. The `-e` flag equalizes the categories so each category has only as many labels as the lowest category. `-f` is a deprecated flag.
+
+### Scoter
+
+```
+./run.sh [folder] [out]
+```
+
+The `folder` contains a set of iPhone screenshots to be evaluated. `Out names the file into which to dump the results.
+
+
+### Import
