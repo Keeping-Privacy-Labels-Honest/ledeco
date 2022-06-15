@@ -46,7 +46,7 @@ Leak detection and comparison
           analysis analyzing a given collection (set) for information
 ```
 
-ledeco has a few more features than you probably need. We will only describe the interesting features: `large-scale-privacy-label,scoter,import,tracker, analysis`
+ledeco has a few more features than you probably need. We will only describe the interesting features: `large-scale-privacy-label,scoter,import,tracker,analysis`
 
 ### large-scale-privacy-label
 
