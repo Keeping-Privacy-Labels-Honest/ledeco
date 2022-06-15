@@ -1,0 +1,42 @@
+[
+    { "ttype" : "advertiser",
+      "url" : "facebook.com",
+      "source" : "Nguyen"
+    },
+    { "ttype" : "advertiser",
+      "url" : "unity3d.com",
+      "source" : "Nguyen"
+    },
+    { "ttype" : "advertiser",
+      "url" : "flurry.com",
+      "source" : "Nguyen"
+    },
+    { "ttype" : "advertiser",
+      "url" : "supersonicads.com",
+      "source" : "Nguyen"
+    },
+    { "ttype" : "advertiser",
+      "url" : "chartboost.com",
+      "source" : "Nguyen"
+    },
+    { "ttype" : "advertiser",
+      "url" : "appsflyer.com",
+      "source" : "Nguyen"
+    },
+    { "ttype" : "advertiser",
+      "url" : "adcolony.com",
+      "source" : "Nguyen"
+    },
+    { "ttype" : "advertiser",
+      "url" : "startappservice.com",
+      "source" : "Nguyen"
+    },
+    { "ttype" : "advertiser",
+      "url" : "vungle.com",
+      "source" : "Nguyen"
+    },
+    { "ttype" : "advertiser",
+      "url" : "branch.io",
+      "source" : "Nguyen"
+    }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "hostRegexp" : "albert.apple.com",
+    "usage" : "Device activation",
+    "source" : "https://support.apple.com/en-us/HT210060"
+  },
+  {
+    "hostRegexp" : "captive.apple.com",
+    "usage" : "Internet connectivity validation for networks that use captive portals",
+    "source" : "https://support.apple.com/en-us/HT210060"
+  },
+  {
+    "hostRegexp" : "gs.apple.com",
+    "usage" : "",
+    "source" : "https://support.apple.com/en-us/HT210060"
+  },
+  {
+    "hostRegexp" : "humb.apple.com",
+    "usage" : "",
+    "source" : "https://support.apple.com/en-us/HT210060"
+  },
+  {
+    "hostRegexp" : "static.ips.apple.com",
+    "usage" : "",
+    "source" : "https://support.apple.com/en-us/HT210060"
+  },
+  {
+    "hostRegexp" : "sq-device.apple.com",
+    "usage" : "eSIM activation",
+    "source" : "https://support.apple.com/en-us/HT210060"
+  },
+  {
+    "hostRegexp" : "tbsc\\.apple\\.com",
+    "usage" : "",
+    "source" : "https://support.apple.com/en-us/HT210060"
+  },
+  {
+    "hostRegexp" : "time-ios\\.apple\\.com",
+    "usage" : "Used by devices to set their date and time",
+    "source" : "https://support.apple.com/en-us/HT210060"
+  },
+  {
+    "hostRegexp" : "time\\.apple\\.com",
+    "usage" : "Used by devices to set their date and time",
+    "source" : "https://support.apple.com/en-us/HT210060"
+  },
+  {
+    "hostRegexp" : ".*\\.push\\.apple\\.com",
+    "usage" : "Push notifications",
+    "source" : "https://support.apple.com/en-us/HT210060"
+  },
+  {
+    "hostRegexp" : "gdmf\\.apple\\.com",
+    "usage" : "Used by an MDM server to identify which software updates are available to devices that use managed software updates",
+    "source" : "https://support.apple.com/en-us/HT210060"
+  },
+  {
+    "hostRegexp" : "deviceenrollment\\.apple\\.com",
+    "usage" : "DEP provisional enrollment",
+    "source" : "https://support.apple.com/en-us/HT210060"
+  },
+  {
+    "hostRegexp" : "deviceservices-external\\.apple\\.com",
+    "usage" : "",
+    "source" : "https://support.apple.com/en-us/HT210060"
+  },
+  {
+    "hostRegexp" : "identity\\.apple\\.com",
+    "usage" : "APNs certificate request portal",
+    "source" : "https://support.apple.com/en-us/HT210060"
+  },
+  {
+    "hostRegexp" : "iprofiles\\.apple\\.com",
+    "usage" : "Hosts enrollment profiles used when devices enroll in Apple School Manager or Apple Business Manager through Device Enrollment",
+    "source" : "https://support.apple.com/en-us/HT210060"
+  },
+  {
+    "hostRegexp" : "mdmenrollment\\.apple\\.com",
+    "usage" : "MDM servers to upload enrollment profiles used by clients enrolling through Device Enrollment in Apple School Manager or Apple Business Manager, and to look up devices and accounts",
+    "source" : "https://support.apple.com/en-us/HT210060"
+  },
+  {
+    "hostRegexp" : "setup\\.icloud\\.com",
+    "usage" : "Required to log in with a Managed Apple ID on Shared iPad",
+    "source" : "https://support.apple.com/en-us/HT210060"
+  },
+  {
+    "hostRegexp" : "vpp\\.itunes\\.apple\\.com",
+    "usage" : "MDM servers to perform operations related to Apps and Books, like assigning or revoking licenses on a device",
+    "source" : "https://support.apple.com/en-us/HT210060"
+  },
+  {
+    "hostRegexp" : "appldnld\\.apple\\.com",
+    "usage" : "iOS updates",
+    "source" : "https://support.apple.com/en-us/HT210060"
+  },
+  {
+    "hostRegexp" : "gg\\.apple\\.com",
+    "usage" : "iOS, tvOS, and macOS updates",
+    "source" : "https://support.apple.com/en-us/HT210060"
+  },
+  {
+    "hostRegexp" : "mesu\\.apple\\.com",
+    "usage" : "Hosts software update catalogs",
+    "source" : "https://support.apple.com/en-us/HT210060"
+  },
+  {
+    "hostRegexp" : "ns\\.itunes.apple\\.com",
+    "usage" : "",
+    "source" : "https://support.apple.com/en-us/HT210060"
+  },
+  {
+    "hostRegexp" : "updates-http\\.cdn-apple\\.com",
+    "usage" : "",
+    "source" : "https://support.apple.com/en-us/HT210060"
+  },
+  {
+    "hostRegexp" : "updates\\.cdn-apple\\.com",
+    "usage" : "",
+    "source" : "https://support.apple.com/en-us/HT210060"
+  },
+  {
+    "hostRegexp" : "xp\\.apple\\.com",
+    "usage" : "",
+    "source" : "https://support.apple.com/en-us/HT210060"
+  },
+  {
+    "hostRegexp" : ".*\\.itunes\\.apple\\.com",
+    "usage" : "Store content such as apps, books, and music",
+    "source" : "https://support.apple.com/en-us/HT210060"
+  },
+  {
+    "hostRegexp" : ".*\\.apps\\.apple\\.com",
+    "usage" : "Store content such as apps, books, and music",
+    "source" : "https://support.apple.com/en-us/HT210060"
+  },
+  {
+    "hostRegexp" : ".*\\.mzstatic\\.com",
+    "usage" : "Store content such as apps, books, and music",
+    "source" : "https://support.apple.com/en-us/HT210060"
+  },
+  {
+    "hostRegexp" : "itunes\\.apple\\.com",
+    "usage" : "",
+    "source" : "https://support.apple.com/en-us/HT210060"
+  },
+  {
+    "hostRegexp" : "ppq\\.apple\\.com",
+    "usage" : "Enterprise App validation",
+    "source" : "https://support.apple.com/en-us/HT210060"
+  },
+  {
+    "hostRegexp" : "serverstatus\\.apple\\.com",
+    "usage" : "Content caching client public IP determination",
+    "source" : "https://support.apple.com/en-us/HT210060"
+  },
+  {
+    "hostRegexp" : ".*\\.appattest\\.apple\\.com",
+    "usage" : "App validation, Touch ID and Face ID authentication for websites",
+    "source" : "https://support.apple.com/en-us/HT210060"
+  },
+  {
+    "hostRegexp" : "fba\\.apple\\.com",
+    "usage" : "Used by Feedback Assistant to file and view feedback",
+    "source" : "https://support.apple.com/en-us/HT210060"
+  },
+  {
+    "hostRegexp" : "cssubmissions\\.apple\\.com",
+    "usage" : "Used by Feedback Assistant to upload files",
+    "source" : "https://support.apple.com/en-us/HT210060"
+  },
+  {
+    "hostRegexp" : "diagassets\\.apple\\.com",
+    "usage" : "Used by Apple devices to help detect possible hardware issues",
+    "source" : "https://support.apple.com/en-us/HT210060"
+  },
+  {
+    "hostRegexp" : "doh\\.dns\\.apple\\.com",
+    "usage" : "Used for DNS over HTTPS (DoH)",
+    "source" : "https://support.apple.com/en-us/HT210060"
+  },
+  {
+    "hostRegexp" : "crl\\.apple\\.com",
+    "usage" : "Certificate validation",
+    "source" : "https://support.apple.com/en-us/HT210060"
+  },
+  {
+    "hostRegexp" : "crl\\.entrust\\.net",
+    "usage" : "Certificate validation",
+    "source" : "https://support.apple.com/en-us/HT210060"
+  },
+  {
+    "hostRegexp" : "crl3\\.digicert\\.com",
+    "usage" : "Certificate validation",
+    "source" : "https://support.apple.com/en-us/HT210060"
+  },
+  {
+    "hostRegexp" : "crl4\\.digicert\\.com",
+    "usage" : "Certificate validation",
+    "source" : "https://support.apple.com/en-us/HT210060"
+  },
+  {
+    "hostRegexp" : "ocsp\\.apple\\.com",
+    "usage" : "Certificate validation",
+    "source" : "https://support.apple.com/en-us/HT210060"
+  },
+  {
+    "hostRegexp" : "ocsp\\.digicert\\.com",
+    "usage" : "Certificate validation",
+    "source" : "https://support.apple.com/en-us/HT210060"
+  },
+  {
+    "hostRegexp" : "ocsp\\.entrust\\.net",
+    "usage" : "Certificate validation",
+    "source" : "https://support.apple.com/en-us/HT210060"
+  },
+  {
+    "hostRegexp" : "ocsp\\.verisign\\.net",
+    "usage" : "Certificate validation",
+    "source" : "https://support.apple.com/en-us/HT210060"
+  },
+  {
+    "hostRegexp" : "valid\\.apple\\.com",
+    "usage" : "Certificate validation",
+    "source" : "https://support.apple.com/en-us/HT210060"
+  },
+  {
+    "hostRegexp" : "ocsp2\\.apple\\.com",
+    "usage" : "OCSP",
+    "source" : ""
+  },
+  {
+    "hostRegexp" : ".*smoot\\.apple\\.com",
+    "usage" : "Spotligh",
+    "source" : "https://apple.stackexchange.com/a/157495"
+  },
+  {
+    "hostRegexp" : "configuration\\.apple\\.com",
+    "usage" : "CloudKit/iCloud",
+    "source" : "https://en.wikipedia.org/wiki/CloudKit"
+  },
+  {
+    "hostRegexp" : "configuration\\.ls\\.apple\\.com",
+    "usage" : "",
+    "source" : ""
+  },
+  {
+    "hostRegexp" : "gspe.*-ssl\\.ls\\.apple\\.com",
+    "usage" : "Apple Maps",
+    "source" : ""
+  },
+  {
+    "hostRegexp" : "gsp.*-ssl\\.ls\\.apple\\.com",
+    "usage" : "Apple Maps",
+    "source" : "https://developer.apple.com/forums/thread/99015"
+  },
+  {
+    "hostRegexp" : "weather-data\\.apple\\.com",
+    "usage" : "Weather data",
+    "source" : ""
+  },
+  {
+    "hostRegexp" : "pancake\\.apple\\.com",
+    "usage" : "",
+    "source" : ""
+  },
+  {
+    "hostRegexp" : "token\\.safebrowsing\\.apple",
+    "usage" : "Safe browsing",
+    "source" : ""
+  },
+  {
+    "hostRegexp" : "apple-finance\\.query\\.yahoo\\.com",
+    "usage" : "Finance widget",
+    "source" : ""
+  },
+  {
+    "hostRegexp" : "p.*-.*\\.icloud\\.com",
+    "usage" : "iCloud calendar, contacts",
+    "source" : ""
+  },
+  {
+    "hostRegexp" : "keyvalueservice\\.icloud\\.com",
+    "usage" : "iCloud keychain",
+    "source" : "https://speakerdeck.com/belenko/icloud-keychain-and-ios-7-data-protection"
+  },
+  {
+    "hostRegexp" : "gs-loc\\.apple\\.com",
+    "usage" : "Location services",
+    "source" : "https://apple.stackexchange.com/questions/63540/what-is-gs-loc-apple-com"
+  },
+  {
+    "hostRegexp" : "gateway\\.icloud\\.com",
+    "usage" : "",
+    "source" : ""
+  },
+  {
+    "hostRegexp" : "metrics\\.icloud\\.com",
+    "usage" : "",
+    "source" : ""
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "location": "contacts",
+    "values" : ["Frank Walther", "frank.walther.1978@icloud.com","0155 57543434", "JGKfozntbF","TBFFZbBYea","RYnlSPbEYh@bn.al"]
+  },
+  {
+    "location" : "location",
+    "values" : [ "Mühlenpfordt", "38106","Braunschweig", "52.273599", "10.524697"]
+  },
+  {
+    "location" : "messages",
+    "values" : ["9FBqD2CNIJ","+4917691377604"]
+  },
+  {
+    "location" : "clipboard",
+    "values" : ["LDDsvPqQdT"]
+  },
+  {
+    "location" : "calendar",
+    "values" : ["fWAs4GFbpN","urscf2178L"]
+  },
+  {
+    "location" : "reminder",
+    "values" : ["b5jHg3Eh1k","HQBOdx4kx2"]
+  },
+  {
+    "location" : "note",
+    "values" : ["S0Ei7sFP9b"]
+  },
+  {
+    "location" : "health details",
+    "values" : ["DkwIXobsJN", "t5TfTlezmn"]
+  },
+  {
+    "location" : "home data",
+    "values" : ["bEZf1h06j1","DX7BgPtH99","g1bVNue3On"]
+  },
+  {
+    "location" : "wifi",
+    "values" : ["GL-AR150-3ca"]
+  },
+  {
+    "location" : "device name",
+    "values" : ["R2Gl5OLv20"]
+  },
+  {
+    "location" : "OS Version",
+    "values" : ["14.5.1"]
+  },
+  {
+    "location" : "Model No.",
+    "values" : ["MX162ZD/A"]
+  },
+  {
+    "location" : "SN",
+    "values" : ["FFMZP87VN1N0"]
+  },
+  {
+    "location" : "IMEI",
+    "values" : ["356395106788056"]
+  },
+  {
+    "location" : "BSSID",
+    "values" : ["34:81:c4:dc:36:1"]
+  },
+  {
+    "location" : "WiFi Addr.",
+    "values" : ["3C:CD:36:D4:CC:E4"]
+  },
+  {
+    "location" : "Bluetooth Addr.",
+    "values" : ["3C:CD:36:D2:BD:B2"]
+  },
+  {
+    "location" : "Local IP",
+    "values" : ["192.168.8.174"]
+  },
+  {
+    "location" : "Modem Firmware",
+    "values" : ["4.03.05"]
+  },
+  {
+    "location" : "SEID",
+    "values" : ["044B24632…"]
+  }
+]

@@ -1,0 +1,323 @@
+{
+  "knownTrackingIdsFolder": "",
+  "trackerLists" : {
+    "exodus": "",
+    "easyList": "",
+    "easyPrivacy": ""
+  },
+  "honeyDataFirstiPhoneJson" : "",
+  "honeyDataSecondiPhoneJson" : "",
+  "patternJson" : "",
+  "chatterJsonIphone" : "",
+  "screenshotAnalysis" : "",
+  "chatterJsonAndroid" : "",
+  "iphoneAndroidAppNameTranslation" : "",
+  "honeyDataMapping" : [
+    {
+      "honeyDataLabel" : "contacts",
+      "privacyLabelDataCategoryType" : ["CONTACTS", "CONTACT_INFO"]
+    },
+    {
+      "honeyDataLabel" : "clipboard",
+      "privacyLabelDataCategoryType" : ["USER_CONTENT"]
+    },
+    {
+      "honeyDataLabel" : "location",
+      "privacyLabelDataCategoryType" : ["LOCATION"]
+    },
+    {
+      "honeyDataLabel" : "messages",
+      "privacyLabelDataCategoryType" : ["USER_CONTENT"]
+    },
+    {
+      "honeyDataLabel" : "calendar",
+      "privacyLabelDataCategoryType" : ["USER_CONTENT"]
+    },
+    {
+      "honeyDataLabel" : "reminder",
+      "privacyLabelDataCategoryType" : ["USER_CONTENT"]
+    },
+    {
+      "honeyDataLabel" : "note",
+      "privacyLabelDataCategoryType" : ["USER_CONTENT"]
+    },
+    {
+      "honeyDataLabel" : "health-details",
+      "privacyLabelDataCategoryType" : ["HEALTH_AND_FITNESS"]
+    },
+    {
+      "honeyDataLabel" : "home-data",
+      "privacyLabelDataCategoryType" : ["USER_CONTENT"]
+    },
+    {
+      "honeyDataLabel" : "wifi",
+      "privacyLabelDataCategoryType" : ["DIAGNOSTICS","LOCATION","IDENTIFIERS"]
+    },
+    {
+      "honeyDataLabel" : "device-name",
+      "privacyLabelDataCategoryType" : ["IDENTIFIERS"]
+    },
+    {
+      "honeyDataLabel" : "os-version",
+      "privacyLabelDataCategoryType" : ["DIAGNOSTICS"]
+    },
+    {
+      "honeyDataLabel" : "model-number",
+      "privacyLabelDataCategoryType" : ["DIAGNOSTICS","IDENTIFIERS"]
+    },
+    {
+      "honeyDataLabel" : "sn",
+      "privacyLabelDataCategoryType" : ["DIAGNOSTICS","IDENTIFIERS"]
+    },
+    {
+      "honeyDataLabel" : "imei",
+      "privacyLabelDataCategoryType" : ["DIAGNOSTICS","IDENTIFIERS"]
+    },
+    {
+      "honeyDataLabel" : "wifi-addr",
+      "privacyLabelDataCategoryType" : ["DIAGNOSTICS","LOCATION","IDENTIFIERS"]
+    },
+    {
+      "honeyDataLabel" : "bluetooth-addr",
+      "privacyLabelDataCategoryType" : ["DIAGNOSTICS","IDENTIFIERS"]
+    },
+    {
+      "honeyDataLabel": "bssid",
+      "privacyLabelDataCategoryType" : ["DIAGNOSTICS","IDENTIFIERS"]
+    },
+    {
+      "honeyDataLabel" : "local-ip",
+      "privacyLabelDataCategoryType" : ["DIAGNOSTICS","LOCATION","IDENTIFIERS"]
+    },
+    {
+      "honeyDataLabel" : "modem-firmware",
+      "privacyLabelDataCategoryType" : ["DIAGNOSTICS"]
+    },
+    {
+      "honeyDataLabel" : "seid",
+      "privacyLabelDataCategoryType" : ["DIAGNOSTICS","IDENTIFIERS"]
+    }
+  ],
+  "dataSets" : [
+    {
+      "label" : "sports",
+      "appCount" : -1,
+      "firstUserCollectionsIphone" : [],
+      "secondUserCollectionsIphone" : [],
+      "firstUserCollectionsAndroid" : [],
+      "secondUserCollectionsAndroid" : [],
+      "iphoneIdNameMap" : "",
+      "privacyLabelFolder" : ""
+    },
+    {
+      "label" : "books",
+      "appCount" : -1,
+      "firstUserCollectionsIphone" : [],
+      "secondUserCollectionsIphone" : [],
+      "firstUserCollectionsAndroid" : [],
+      "secondUserCollectionsAndroid" : [],
+      "iphoneIdNameMap" : "",
+      "privacyLabelFolder" : ""
+    },
+    {
+      "label" : "games",
+      "appCount" : -1,
+      "firstUserCollectionsIphone" : [],
+      "secondUserCollectionsIphone" : [],
+      "firstUserCollectionsAndroid" : [],
+      "secondUserCollectionsAndroid" : [],
+      "iphoneIdNameMap" : "",
+      "privacyLabelFolder" : ""
+    },
+    {
+      "label" : "social-networking",
+      "appCount" : -1,
+      "firstUserCollectionsIphone" : [],
+      "secondUserCollectionsIphone" : [],
+      "firstUserCollectionsAndroid" : [],
+      "secondUserCollectionsAndroid" : [],
+      "iphoneIdNameMap" : "",
+        "privacyLabelFolder" : ""
+    },
+    {
+      "label" : "travel",
+      "appCount" : -1,
+      "firstUserCollectionsIphone" : [],
+      "secondUserCollectionsIphone" : [],
+      "firstUserCollectionsAndroid" : [],
+      "secondUserCollectionsAndroid" : [],
+      "iphoneIdNameMap" : "",
+      "privacyLabelFolder" : ""
+    },
+    {
+      "label" : "utilities",
+      "appCount" : -1,
+      "firstUserCollectionsIphone" : [],
+      "secondUserCollectionsIphone" : [],
+      "firstUserCollectionsAndroid" : [],
+      "secondUserCollectionsAndroid" : [],
+      "iphoneIdNameMap" : "",
+      "privacyLabelFolder" : ""
+    },
+    {
+      "label" : "medical",
+      "appCount" : -1,
+      "firstUserCollectionsIphone" : [],
+      "secondUserCollectionsIphone" : [],
+      "firstUserCollectionsAndroid" : [],
+      "secondUserCollectionsAndroid" : [],
+      "iphoneIdNameMap" : "",
+      "privacyLabelFolder" : ""
+    },
+    {
+      "label" : "business",
+      "appCount" : -1,
+      "firstUserCollectionsIphone" : [],
+      "secondUserCollectionsIphone" : [],
+      "firstUserCollectionsAndroid" : [],
+      "secondUserCollectionsAndroid" : [],
+      "iphoneIdNameMap" : "",
+      "privacyLabelFolder" : ""
+    },
+    {
+      "label" : "education",
+      "appCount" : -1,
+      "firstUserCollectionsIphone" : [],
+      "secondUserCollectionsIphone" : [],
+      "firstUserCollectionsAndroid" : [],
+      "secondUserCollectionsAndroid" : [],
+      "iphoneIdNameMap" : "",
+      "privacyLabelFolder" : ""
+    },
+    {
+      "label" : "health",
+      "appCount" : -1,
+      "firstUserCollectionsIphone" : [],
+      "secondUserCollectionsIphone" : [],
+      "firstUserCollectionsAndroid" : [],
+      "secondUserCollectionsAndroid" : [],
+      "iphoneIdNameMap" : "",
+      "privacyLabelFolder" : ""
+    },
+    {
+      "label" : "finance",
+      "appCount" : -1,
+      "firstUserCollectionsIphone" : [],
+      "secondUserCollectionsIphone" : [],
+      "firstUserCollectionsAndroid" : [],
+      "secondUserCollectionsAndroid" : [],
+      "iphoneIdNameMap" : "",
+      "privacyLabelFolder" : ""
+    },
+    {
+      "label" : "food-and-drink",
+      "appCount" : -1,
+      "firstUserCollectionsIphone" : [],
+      "secondUserCollectionsIphone" : [],
+      "firstUserCollectionsAndroid" : [],
+      "secondUserCollectionsAndroid" : [],
+      "iphoneIdNameMap" : "",
+      "privacyLabelFolder" : ""
+    },
+    {
+      "label" : "navigation",
+      "appCount" : -1,
+      "firstUserCollectionsIphone" : [],
+      "secondUserCollectionsIphone" : [],
+      "firstUserCollectionsAndroid" : [],
+      "secondUserCollectionsAndroid" : [],
+      "iphoneIdNameMap" : "",
+      "privacyLabelFolder" : ""
+    },
+    {
+      "label" : "news",
+      "appCount" : -1,
+      "firstUserCollectionsIphone" : [],
+      "secondUserCollectionsIphone" : [],
+      "firstUserCollectionsAndroid" : [],
+      "secondUserCollectionsAndroid" : [],
+      "iphoneIdNameMap" : "",
+      "privacyLabelFolder" : ""
+    },
+    {
+      "label" : "lifestyle",
+      "appCount" : -1,
+      "firstUserCollectionsIphone" : [],
+      "secondUserCollectionsIphone" : [],
+      "firstUserCollectionsAndroid" : [],
+      "secondUserCollectionsAndroid" : [],
+      "iphoneIdNameMap" : "",
+      "privacyLabelFolder" : ""
+    },
+    {
+      "label" : "photo-and-video",
+      "appCount" : -1,
+      "firstUserCollectionsIphone" : [],
+      "secondUserCollectionsIphone" : [],
+      "firstUserCollectionsAndroid" : [],
+      "secondUserCollectionsAndroid" : [],
+      "iphoneIdNameMap" : "",
+      "privacyLabelFolder" : ""
+    },
+    {
+      "label" : "productivity",
+      "appCount" : -1,
+      "firstUserCollectionsIphone" : [],
+      "secondUserCollectionsIphone" : [],
+      "firstUserCollectionsAndroid" : [],
+      "secondUserCollectionsAndroid" : [],
+      "iphoneIdNameMap" : "",
+      "privacyLabelFolder" : ""
+    },
+    {
+      "label" : "references",
+      "appCount" : -1,
+      "firstUserCollectionsIphone" : [],
+      "secondUserCollectionsIphone" : [],
+      "firstUserCollectionsAndroid" : [],
+      "secondUserCollectionsAndroid" : [],
+      "iphoneIdNameMap" : "",
+      "privacyLabelFolder" : ""
+    },
+    {
+      "label" : "shopping",
+      "appCount" : -1,
+      "firstUserCollectionsIphone" : [],
+      "secondUserCollectionsIphone" : [],
+      "firstUserCollectionsAndroid" : [],
+      "secondUserCollectionsAndroid" : [],
+      "iphoneIdNameMap" : "",
+      "privacyLabelFolder" : ""
+    },
+    {
+      "label" : "weather",
+      "appCount" : -1,
+      "firstUserCollectionsIphone" : [],
+      "secondUserCollectionsIphone" : [],
+      "firstUserCollectionsAndroid" : [],
+      "secondUserCollectionsAndroid" : [],
+      "iphoneIdNameMap" : "",
+      "privacyLabelFolder" : ""
+    },
+    {
+	"label" : "entertainment",
+	"appCount" : -1,
+	"firstUserCollectionsIphone" : [],
+	"secondUserCollectionsIphone" : [],
+	"firstUserCollectionsAndroid" : [],
+	"secondUserCollectionsAndroid" : [],
+	"iphoneIdNameMap" : "",
+	"privacyLabelFolder" : ""
+    },
+    {
+	"label" : "music",
+	"appCount" : -1,
+	"firstUserCollectionsIphone" : [],
+	"secondUserCollectionsIphone" : [],
+	"firstUserCollectionsAndroid" : [],
+	"secondUserCollectionsAndroid" : [],
+	"iphoneIdNameMap" : "",
+	"privacyLabelFolder" : ""
+    }
+  ]
+}
