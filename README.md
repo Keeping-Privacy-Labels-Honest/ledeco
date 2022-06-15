@@ -47,3 +47,11 @@ Leak detection and comparison
 ```
 
 ledeco has a few more features than you probably need. We will only describe the interesting features: `large-scale-privacy-label,scoter,import,tracker, analysis`
+
+### large-scale-privacy-label
+
+```
+$> ./run.sh large-scale-privacy-label [folder] [where] [what] {-d,-h,-e,-f}
+```
+
+This action analyzes the set of privacy labels contained in subfolders contained below `folder`. `where` names the folder to output the results into whereas `what` describes the action that is to be done. For `what` you can choose between analysis,bar-plotting,keyness-plotting` each conducting the named action. The `-d` parameter can be used to provide a csv list of categories (subfolder names) that are not to be evaluated. The `-e` flag equalizes the categories so each category has only as many labels as the lowest category. `-f` is a deprecated flag.
