@@ -66,3 +66,35 @@ The `folder` contains a set of iPhone screenshots to be evaluated. `Out names th
 
 
 ### Import
+
+```
+./run.sh [user] [password] [dbname] {-l,-p,-h} iphone
+```
+
+This action imports the database `dbname` of `user` with `password` at `-l` (default: `localhost`) listening on `-p` (default: 5432) into the database specified by the main.conf.
+The provided database is the database used by the traffic collection as the database used by `ledeco` is slightly different.
+
+
+### tracker
+
+```
+./run.sh tracker convertEasy [easyTxt] [out]
+```
+
+Converts the provided easy privacy or easy list txt file specified by `easyTxt` into a set of json files that can be used for further analysis outputtet into the `out` folder.
+
+### analysis
+
+The base action to conduct your analysis 
+
+```
+./run.sh analysis {-a} perform [basics honey-data IDFA hosts GDPR-required tracker]
+```
+
+This action uses the analysis config provided by `-a` (default: `resources/analysisConfig.json`). It is then up to you what analysis action you want to do:
+- basics: prints out basic numbers concerning the configured data set
+- honey-data: search for configured honey-data in your configured data set
+- IDFA: search for the IDFA in your configured data set
+- hosts: check what hosts are contacted
+- GDPR-required: uses the screenshot evaluation to determine what apps should have a GDPR dialog
+- tracker: uses the configured folder of tracker jsons to check what trackers are contacted in the configured data set
